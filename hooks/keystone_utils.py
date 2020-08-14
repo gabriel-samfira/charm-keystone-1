@@ -307,6 +307,10 @@ valid_services = {
         "type": "volume",
         "desc": "Nova Volume Service"
     },
+    "ironic": {
+        "type": "baremetal",
+        "desc": "Bare metal provisioning",
+    },
     "cinder": {
         "type": "volume",
         "desc": "Cinder Volume Service v1"
